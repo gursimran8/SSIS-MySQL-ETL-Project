@@ -26,12 +26,12 @@ This project demonstrates how to load e-commerce data from a flat file into a My
 2. **Extract of High Value and Low Value Orders**:
    - Use conditional splits to filter the dataset based on order values into high-value and low-value orders.
    
-   ![Extract of High Value Orders][(url_to_extract_of_high_value_orders_image)](https://github.com/gursimran8/SSIS-MySQL-ETL-Project/blob/main/Images/Extract%20of%20high%20value%20orders.png)
+   ![Extract of High Value Orders](https://github.com/gursimran8/SSIS-MySQL-ETL-Project/blob/main/Images/Extract%20of%20high%20value%20orders.png)
 
 3. **MySQL E-commerce Table After Extraction**:
    - Verify the data loaded into MySQL using SQL queries.
    
-   ![MySQL E-commerce Table After Extraction][(url_to_mysql_table_after_extraction_image)](https://github.com/gursimran8/SSIS-MySQL-ETL-Project/blob/main/Images/MySQL%20E_commerce%20table%20after%20extraction.png)
+   ![MySQL E-commerce Table After Extraction](https://github.com/gursimran8/SSIS-MySQL-ETL-Project/blob/main/Images/MySQL%20E_commerce%20table%20after%20extraction.png)
 
 4. **MySQL Query to Create, Alter, and View Table**:
    - SQL queries were written to create, alter, and view the MySQL table. 
