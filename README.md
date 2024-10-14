@@ -13,6 +13,8 @@ This project demonstrates the end-to-end ETL (Extract, Transform, Load) process 
 
 1. **Extraction**:  
    The e-commerce dataset is extracted from a flat file containing transaction details such as `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `CustomerID`, and `Country`.
+
+
 ![Customer Data from Flat File to MySQL](https://github.com/gursimran8/SSIS-MySQL-ETL-Project/blob/main/Images/Customer%20Data%20from%20Flat%20file%20to%20MySQL.png)
    
 2. **Transformation**:  
