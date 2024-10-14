@@ -21,7 +21,7 @@ This project demonstrates how to load e-commerce data from a flat file into a My
 1. **Customer Data from Flat File to MySQL**:
    - Load raw customer data from a flat file into MySQL for analysis and processing.
    
-   [Customer Data from Flat File to MySQL]https://github.com/gursimran8/SSIS-MySQL-ETL-Project/blob/main/Images/Customer%20Data%20from%20Flat%20file%20to%20MySQL.png
+   ![Customer Data from Flat File to MySQL](https://github.com/gursimran8/SSIS-MySQL-ETL-Project/blob/main/Images/Customer%20Data%20from%20Flat%20file%20to%20MySQL.png)
 
 2. **Extract of High Value and Low Value Orders**:
    - Use conditional splits to filter the dataset based on order values into high-value and low-value orders.
