@@ -53,7 +53,7 @@ This project demonstrates how to load e-commerce data from a flat file into a My
    SELECT * FROM customer_data;
 
 
-(https://github.com/gursimran8/SSIS-MySQL-ETL-Project/blob/main/Images/MySQL%20query%20to%20create%20alter%20and%20view%20table%2C.png)
+![MySQL query to create alter and view table](https://github.com/gursimran8/SSIS-MySQL-ETL-Project/blob/main/Images/MySQL%20query%20to%20create%20alter%20and%20view%20table%2C.png)
 
 
 
